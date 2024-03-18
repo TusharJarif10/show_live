@@ -1,0 +1,11 @@
+/* these are declared classe */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* these are declared classe */
+
+/* user defined classes */
+
+.radial-blue {
+    background: radial-gradient(lightyellow, skyblue);
+}

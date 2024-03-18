@@ -1,0 +1,16 @@
+https://emojipedia.org/
+https://symbl.cc/en/2630/
+
+css intelisense is not 
+
+
+
+
+some shorcuts 
+alt + z - formating codes
+shift + alt + up arrow - copy paste same content above
+
+
+in node we can add additional commands in package.json. when we give command npm run all the commands in package will automatically run in backend
+
+usual strategy to be responsive is that every section is supposed make 2 version (full, mobile) then label it. then work with label.
